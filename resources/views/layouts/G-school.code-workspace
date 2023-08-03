@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../G-stock"
+		},
+		{
+			"path": "E:/LOGICIEL & Docs/TEMPLATES SITES/Drixo_v1.1.0/Admin/school/www.einfosoft.com/templates/admin/smart/source/light"
+		},
+		{
+			"path": "../../../../../../wamp64/www/irm_moov"
+		},
+		{
+			"path": "../../../../../../wamp64/www/irm_moov_dash"
+		},
+		{
+			"path": "../../../../../../wamp64/www/irm_moov_msisdn"
+		},
+		{
+			"path": "../../../../../../wamp64/www/entreprise"
+		},
+		{
+			"path": "../../../../../../wamp64/www/topidealspace.com"
+		},
+		{
+			"path": "../../../../../../wamp64/www/web"
+		},
+		{
+			"path": "../../../../../../wamp64/www/webtest"
+		},
+		{
+			"path": "../../../../ligneverte"
+		},
+		{
+			"path": "../../../../m_auto_campaign"
+		},
+		{
+			"path": "../../../../GestHEHT"
+		}
+	],
+	"settings": {}
+}
